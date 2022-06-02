@@ -1,0 +1,4 @@
+export const CHAIN_ID = 56;
+
+export const NFTStorageKey =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDUxODlEMzhCRDVmMWE5MmU0RjIzNUVmMDExRTMzMjRiNUZDRkNjZTIiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYyMDgwNDI1MjI0OSwibmFtZSI6Im1vb25zdGFyIn0.ioVYvZ_sYN-a89eGkMYJNPK-kRVx9vt0CdxGfQmtqg0';
